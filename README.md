@@ -195,19 +195,3 @@ For each construction period and district:
 
 ---
 
-## 7. Repository Structure
-
-```text
-.
-├── README.md                # Project description (this file)
-└── images/                  # Project boards and figures
-    ├── pv-01-overview.jpg
-    ├── pv-02-solar-radiation.jpg
-    ├── pv-03-economic-analysis.jpg
-    ├── retrofit-01-intro.jpg
-    ├── retrofit-02-methodology.jpg
-    ├── retrofit-03-results.jpg
-    ├── retrofit-04-policy.jpg
-    ├── solar-thermal-01-method.jpg
-    ├── solar-thermal-02-optimization.jpg
-    └── solar-thermal-03-cost-benefit.jpg
