@@ -21,7 +21,7 @@ Two districts were selected due to their contrasting morphological and rooftop c
 
 Both districts offer valuable insights into how urban form influences renewable energy potential.
 
-![Study Area](1.study area.png)
+!(1.study area.png)
 
 ---
 
