@@ -20,6 +20,7 @@ Two districts were selected due to their contrasting morphological and rooftop c
 - **Cathedral Park** — compact residential forms, stable solar performance  
 
 Both districts offer valuable insights into how urban form influences renewable energy potential.
+![Study Area](solar.img/1.study-area.jpg)
 
 ---
 
