@@ -60,4 +60,41 @@ The radiation modeling process included:
 
 ## 2.4 PV Energy Estimation
 
-### Energy per rooftop area:
+### Energy per rooftop area:E1 = PR × Hs × S × η
+
+### Energy per kWp capacity:E3 = PR × Hs × Wp / Istc
+
+Where:  
+- PR — Performance ratio  
+- Hs — Solar radiation (kWh/m²)  
+- S — Rooftop area  
+- η — Panel efficiency  
+- Wp — System peak power  
+- Istc — Standard irradiance  
+
+---
+
+## 2.5 Key Findings
+
+### Cully Association
+- Larger rooftops → higher annual PV output  
+- Best suited for large-scale PV installations  
+- Payback period: **~17.3 years**
+
+### Cathedral Park
+- Smaller rooftops but consistent efficiency  
+- Payback period: **~16.8 years**
+
+---
+
+# 3. Solar Thermal Potential Analysis
+
+Solar thermal modeling focuses on domestic hot water (DHW) heating potential and collector sizing.
+
+---
+
+## 3.1 Energy Consumption Calculation
+
+Daily DHW energy demand per person:
+
+
