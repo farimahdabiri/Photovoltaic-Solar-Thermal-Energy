@@ -31,18 +31,10 @@ The work includes:
 
 ## 2.2 Data Inputs
 
-- Digital Surface Model (DSM)  
-- Slope & Aspect rasters  
-- Diffuse-to-global radiation ratio  
-- Linke turbidity values  
-- Typical radiation days (12 per year)  
-- Building footprints and rooftop areas  
-- Performance ratio and panel efficiency  
+| **Input Data Description** | **Input Data Layers** |
+|----------------------------|------------------------|
+| • Digital Surface Model (DSM)  <br> • Slope & Aspect rasters  <br> • Diffuse-to-global radiation ratio  <br> • Linke turbidity values  <br> • Typical radiation days (12 per year)  <br> • Building footprints and rooftop areas  <br> • Performance ratio and panel efficiency  <br><br>Solar radiation was simulated using **QGIS r.sun**, producing daily and monthly radiation maps, later validated with **PVGIS**. | <img src="images/2.inputdata.png" width="300"> |
 
-Solar radiation was simulated using **QGIS r.sun**, producing daily and monthly radiation maps, later validated with **PVGIS**.
-<p align="center">
-  <img src="images/ENERGY.png" width="250">
-</p>
 
 ## 2.3 Solar Radiation Modeling
 
