@@ -69,7 +69,9 @@ Where:
 
 ## 2.5 Key Findings
 
-<div style="display: flex; align-items: flex-start; gap: 20px;">
+## 2.5 Key Findings
+
+<div style="display: flex; align-items: center; justify-content: space-between;">
 
 <div style="flex: 1;">
 
@@ -84,13 +86,13 @@ Where:
 
 </div>
 
-<div style="flex: 1;">
-  <img src="images/cl1.png" width="350">
-  <br><br>
-  <img src="images/cl2.png" width="350">
+<div style="flex: 1; text-align: right;">
+  <img src="images/cl1.png" width="380" style="margin-bottom: 20px;">
+  <img src="images/cl2.png" width="380">
 </div>
 
 </div>
+
 
 
 | Month | Consumption (kWh/month) | Production (kWh/month) |
