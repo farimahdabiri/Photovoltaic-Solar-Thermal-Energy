@@ -239,30 +239,24 @@ Outputs classify buildings into efficiency classes and reveal how form and age i
 </p>
 
 ---
+<!-- TEXT COLUMN -->
+<td style="vertical-align: top; width: 45%; padding-right: 20px;">
 
-## 5. Retrofit Strategies & Energy Savings
+  <strong>Retrofit measures evaluated:</strong><br><br>
 
-<table>
-  <tr>
-    <!-- TEXT COLUMN -->
-    <td style="vertical-align: top; width: 45%; padding-right: 20px;">
+  • Roof insulation <br>
+  • Wall insulation <br>
+  • Lower slab insulation <br>
+  • Window substitution <br>
+  • Combined retrofits <br>
 
-      **Retrofit measures evaluated:** <br><br>
+</td>
 
-      • Roof insulation <br>
-      • Wall insulation <br>
-      • Lower slab insulation <br>
-      • Window substitution <br>
-      • Combined retrofits <br>
+<!-- IMAGE COLUMN -->
+<td style="vertical-align: top; width: 55%; text-align: left;">
+  <img src="images/energysaving.png" width="520">
+</td>
 
-    </td>
-
-    <!-- IMAGE COLUMN -->
-    <td style="vertical-align: top; width: 55%; text-align: left;">
-      <img src="images/energysaving.png" width="520">
-    </td>
-  </tr>
-</table>
 
 
 ### Key insights:
