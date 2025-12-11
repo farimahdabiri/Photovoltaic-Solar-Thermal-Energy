@@ -244,17 +244,10 @@ Outputs classify buildings into efficiency classes and reveal how form and age i
 
 <table>
   <tr>
-    <th style="text-align:left; width:50%;">Retrofit Measures Evaluated</th>
-    <th style="text-align:center; width:50%;">Energy Savings & Payback Charts</th>
-  </tr>
+    <!-- TEXT COLUMN -->
+    <td style="vertical-align: top; width: 45%; padding-right: 20px;">
 
-  <tr>
-
-    <!-- ستون متن -->
-    <td style="vertical-align: top; padding: 10px; font-size:15px;">
-
-      Retrofit measures evaluated:  
-      <br><br>
+      **Retrofit measures evaluated:** <br><br>
 
       • Roof insulation <br>
       • Wall insulation <br>
@@ -264,11 +257,10 @@ Outputs classify buildings into efficiency classes and reveal how form and age i
 
     </td>
 
-    <!-- ستون تصویر energysaving -->
-    <td style="vertical-align: top; padding:10px; text-align:center;">
-      <img src="images/energysaving.png" width="430">
+    <!-- IMAGE COLUMN -->
+    <td style="vertical-align: top; width: 55%; text-align: left;">
+      <img src="images/energysaving.png" width="520">
     </td>
-
   </tr>
 </table>
 
