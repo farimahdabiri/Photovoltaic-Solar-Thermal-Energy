@@ -69,6 +69,10 @@ Where:
 
 ## 2.5 Key Findings
 
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+
+<div style="flex: 1;">
+
 ### Cully Association
 - Larger rooftops → higher annual PV output  
 - Best suited for large-scale PV installations  
@@ -77,10 +81,17 @@ Where:
 ### Cathedral Park
 - Smaller rooftops but consistent efficiency  
 - Payback period: **~16.8 years**
-<p align="center">
-  <img src="images/5.production.jpg" width="350">
-</p>
-### Monthly Electrical Consumption and Production – Cathedral Park District
+
+</div>
+
+<div style="flex: 1;">
+  <img src="images/cl1.png" width="350">
+  <br><br>
+  <img src="images/cl2.png" width="350">
+</div>
+
+</div>
+
 
 | Month | Consumption (kWh/month) | Production (kWh/month) |
 |-------|--------------------------|--------------------------|
