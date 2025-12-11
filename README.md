@@ -206,9 +206,9 @@ This section analyzes heating energy demand based on:
 - Shared wall conditions  
 - Height differences  
 <p align="center">
-  <img src="images/typo.png" alt="Typology Map" width="450"><br>
-  <em>Figure: Building Typology Classification</em>
+  <img src="images/typo.png" alt="Typology Map" width="450">
 </p>
+
 
 ---
 
@@ -220,6 +220,10 @@ S1 = [(Perimeter × Height) + (Area × 2)] − Shared_Surface
 ### Building Volume:
 V1 = (Area × Height) − (Shared_Surface × 0.4)
 Outputs classify buildings into efficiency classes and reveal how form and age influence energy performance.
+<p align="center">
+  <img src="images/cl1.png" alt="Cluster 1" width="400">
+  <img src="images/cl2.png" alt="Cluster 2" width="400">
+</p>
 
 ---
 
@@ -232,13 +236,26 @@ Retrofit measures evaluated:
 - Lower slab insulation  
 - Window substitution  
 - Combined retrofits  
+<p align="center">
+  <img src="images/energysaving.png" alt="Energy Saving Chart" width="500">
+</p>
 
 ### Key insights:
 - Up to **42% energy reduction** for the combined retrofit  
 - Roof insulation → best for older buildings  
 - Wall insulation → best for post-1960 buildings  
 - Lower slab insulation → shortest payback (5–7 years)  
-- Window substitution → improves comfort but with higher cost  
+- Window substitution → improves comfort but with higher cost
+  
+| Period of construction | Windows substitution | Roof insulation | Lower slab insulation | Vertical walls insulation | Overall retrofit |
+|------------------------|----------------------|-----------------|------------------------|----------------------------|-------------------|
+| < 1919                 | 17%                 | 24%            | 9%                     | -                          | 43%              |
+| 1919–45                | 17%                 | 26%            | 8%                     | -                          | 42%              |
+| 1946–60                | 15%                 | 17%            | 4%                     | -                          | 30%              |
+| 1961–70                | 20%                 | 17%            | 5%                     | 29%                        | 66%              |
+| 1971–80                | 25%                 | 14%            | 10%                    | 26%                        | 63%              |
+| 1981–90                | 21%                 | 14%            | 8%                     | 30%                        | 66%              |
+| 1991–2005              | 12%                 | 10%            | 5%                     | 34%                        | 57%              |
 
 ---
 
@@ -256,6 +273,13 @@ Retrofit measures evaluated:
 - Roof insulation: optimal for older buildings  
 - Wall insulation: effective for modern structures  
 - Lower slab insulation: fastest economic return  
+| Building Type                               | Recommended Retrofit          | Energy Savings (%) | Payback Time (Years) | Key Benefits                                                                 | Limitations                                   |
+|----------------------------------------------|------------------------------|---------------------|-----------------------|-------------------------------------------------------------------------------|-----------------------------------------------|
+| Older Buildings (Pre-1960)                   | Roof Insulation 🏠           | 24–26%             | 7–15 years            | - Reduces major heat loss<br>- Cost-effective for aging structures           | - Requires upfront investment                 |
+| Newer Buildings (1961–2005)                  | Wall Insulation 🧱           | 29–34%             | 11–15 years           | - Improves thermal performance<br>- Reduces external wall heat loss          | - Moderate installation cost                  |
+| Buildings with Large Windows                 | Window Substitution 🪟       | 15–25%             | 15–20 years           | - Reduces air leakage<br>- Improves indoor comfort                           | - High initial cost                           |
+| Low-Rise Buildings with Ground Exposure      | Lower Slab Insulation 🏗️     | 5–10%              | 5–7 years             | - Fastest payback time<br>- Reduces heat loss from the ground               | - Lower overall energy savings                |
+| All Building Types (Max Savings Potential)   | Overall Retrofit (Roof + Wall + Windows + Slab) 🔄 | Up to 42% | 50+ years | - Highest energy efficiency<br>- Long-term cost savings | - Very high cost<br>- Longest payback period |
 
 ### Main Takeaway
 **GIS-based solar modeling combined with energy retrofitting provides a powerful framework for sustainable urban energy planning and decarbonization.**
