@@ -193,11 +193,11 @@ Benefits:
 - Reduces installation cost  
 - Improves annual energy balance  
 <p align="center">
-  <img src="images/6.optimazation1.jpg" width="350">
+  <img src="images/6.optimazation1.jpg" width="650">
 </p>
 
 <p align="center">
-  <img src="images/7.optimazation2.jpg" width="350">
+  <img src="images/7.optimazation2.jpg" width="650">
 </p>
 ---
 
