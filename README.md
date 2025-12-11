@@ -240,18 +240,38 @@ Outputs classify buildings into efficiency classes and reveal how form and age i
 
 ---
 
-# 5. Retrofit Strategies & Energy Savings
+## 5. Retrofit Strategies & Energy Savings
 
-Retrofit measures evaluated:
+<table>
+  <tr>
+    <th style="text-align:left; width:50%;">Retrofit Measures Evaluated</th>
+    <th style="text-align:center; width:50%;">Energy Savings & Payback Charts</th>
+  </tr>
 
-- Roof insulation  
-- Wall insulation  
-- Lower slab insulation  
-- Window substitution  
-- Combined retrofits  
-<p align="center">
-  <img src="images/energysaving.png" alt="Energy Saving Chart" width="500">
-</p>
+  <tr>
+
+    <!-- ستون متن -->
+    <td style="vertical-align: top; padding: 10px; font-size:15px;">
+
+      Retrofit measures evaluated:  
+      <br><br>
+
+      • Roof insulation <br>
+      • Wall insulation <br>
+      • Lower slab insulation <br>
+      • Window substitution <br>
+      • Combined retrofits <br>
+
+    </td>
+
+    <!-- ستون تصویر energysaving -->
+    <td style="vertical-align: top; padding:10px; text-align:center;">
+      <img src="images/energysaving.png" width="430">
+    </td>
+
+  </tr>
+</table>
+
 
 ### Key insights:
 - Up to **42% energy reduction** for the combined retrofit  
