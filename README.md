@@ -22,7 +22,7 @@ Two districts were selected due to their contrasting morphological and rooftop c
 Both districts offer valuable insights into how urban form influences renewable energy potential.
 
 <p align="center">
-  <img src="images/1.studyarea.png" width="350">
+  <img src="images/1.studyarea.png" width="250">
 </p>
 
 ---
@@ -50,7 +50,7 @@ Both districts offer valuable insights into how urban form influences renewable 
 Solar radiation was simulated using **QGIS r.sun**, producing daily and monthly radiation maps, later validated with **PVGIS**.
 
 <p align="center">
-  <img src="images/2.inputdata.png" width="150">
+  <img src="images/2.ENERGY.png" width="250">
 </p>---
 
 ## 2.3 Solar Radiation Modeling
