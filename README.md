@@ -60,6 +60,9 @@ The radiation modeling process included:
 - Conversion of daily → monthly outputs  
 - Extraction of radiation values per rooftop polygon  
 - Validation against PVGIS (strong correlation in summer periods, higher error in winter)
+<p align="center">
+  <img src="images/3.solar-radiation.png" width="350">
+</p>
 
 ---
 
@@ -76,7 +79,9 @@ Where:
 - η — Panel efficiency  
 - Wp — System peak power  
 - Istc — Standard irradiance  
-
+<p align="center">
+  <img src="images/4.result.png" width="350">
+</p>
 ---
 
 ## 2.5 Key Findings
@@ -89,6 +94,26 @@ Where:
 ### Cathedral Park
 - Smaller rooftops but consistent efficiency  
 - Payback period: **~16.8 years**
+<p align="center">
+  <img src="images/5.production.jpg" width="350">
+</p>
+### Monthly Electrical Consumption and Production – Cathedral Park District
+
+| Month | Consumption (kWh/month) | Production (kWh/month) |
+|-------|--------------------------|--------------------------|
+| Jan   | 290,494.63               | 384,775.30               |
+| Feb   | 262,382.25               | 615,248.79               |
+| Mar   | 290,494.63               | 1,043,947.15             |
+| Apr   | 281,123.84               | 1,397,416.26             |
+| May   | 290,494.63               | 1,686,085.02             |
+| Jun   | 281,123.84               | 1,866,675.18             |
+| Jul   | 290,494.63               | 1,796,074.76             |
+| Aug   | 290,494.63               | 1,528,423.08             |
+| Sep   | 281,123.84               | 1,128,523.20             |
+| Oct   | 290,494.63               | 756,773.56               |
+| Nov   | 281,123.84               | 441,500.63               |
+| Dec   | 290,494.63               | 328,451.53               |
+| **Annual** | **3,420,340.00** | **12,973,894.47** |
 
 ---
 
