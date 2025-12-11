@@ -239,6 +239,8 @@ Outputs classify buildings into efficiency classes and reveal how form and age i
 </p>
 
 ---
+## 5. Retrofit Strategies & Energy Savings
+
 <!-- TEXT COLUMN -->
 <td style="vertical-align: top; width: 45%; padding-right: 20px;">
 
