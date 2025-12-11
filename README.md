@@ -21,7 +21,8 @@ Two districts were selected due to their contrasting morphological and rooftop c
 
 Both districts offer valuable insights into how urban form influences renewable energy potential.
 
-<img src="images/solar/studyarea.png" width="450">
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/cf37e37c-7633-47d8-9983-8af12c06dd0d" />
+
 ---
 
 # 2. Photovoltaic (PV) Energy Potential
