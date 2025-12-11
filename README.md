@@ -115,6 +115,24 @@ Where:
 | Dec   | 290,494.63               | 328,451.53               |
 | **Annual** | **3,420,340.00** | **12,973,894.47** |
 
+### Cost Before and After Implementation – Cathedral Park District
+
+| Month | C_bi (€) | C_ai (€) |
+|-------|-----------|--------------|
+| Jan   | 63,908.82 | 9,420.07     |
+| Feb   | 57,724.09 | 35,286.65    |
+| Mar   | 63,908.82 | 75,345.25    |
+| Apr   | 61,847.24 | 111,629.24   |
+| May   | 63,908.82 | 139,559.04   |
+| Jun   | 61,847.24 | 158,585.13   |
+| Jul   | 63,908.82 | 150,568.01   |
+| Aug   | 63,908.82 | 123,792.85   |
+| Sep   | 61,847.24 | 84,739.94    |
+| Oct   | 63,908.82 | 46,627.89    |
+| Nov   | 61,847.24 | 16,037.68    |
+| Dec   | 63,908.82 | 3,795.69     |
+| **Annual** | **752,474.80** | **955,355.46** |
+
 ---
 
 # 3. Solar Thermal Potential Analysis
@@ -161,7 +179,13 @@ Benefits:
 - Eliminates excess summer heat  
 - Reduces installation cost  
 - Improves annual energy balance  
+<p align="center">
+  <img src="images/6.optimazation1.jpg" width="350">
+</p>
 
+<p align="center">
+  <img src="images/7.optimazation2.jpg" width="350">
+</p>
 ---
 
 ## 3.4 Economic Results (Solar Thermal)
