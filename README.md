@@ -272,7 +272,8 @@ Retrofit measures evaluated:
 ### Retrofit Strategy
 - Roof insulation: optimal for older buildings  
 - Wall insulation: effective for modern structures  
-- Lower slab insulation: fastest economic return  
+- Lower slab insulation: fastest economic return
+- 
 | Building Type                               | Recommended Retrofit          | Energy Savings (%) | Payback Time (Years) | Key Benefits                                                                 | Limitations                                   |
 |----------------------------------------------|------------------------------|---------------------|-----------------------|-------------------------------------------------------------------------------|-----------------------------------------------|
 | Older Buildings (Pre-1960)                   | Roof Insulation 🏠           | 24–26%             | 7–15 years            | - Reduces major heat loss<br>- Cost-effective for aging structures           | - Requires upfront investment                 |
@@ -280,6 +281,7 @@ Retrofit measures evaluated:
 | Buildings with Large Windows                 | Window Substitution 🪟       | 15–25%             | 15–20 years           | - Reduces air leakage<br>- Improves indoor comfort                           | - High initial cost                           |
 | Low-Rise Buildings with Ground Exposure      | Lower Slab Insulation 🏗️     | 5–10%              | 5–7 years             | - Fastest payback time<br>- Reduces heat loss from the ground               | - Lower overall energy savings                |
 | All Building Types (Max Savings Potential)   | Overall Retrofit (Roof + Wall + Windows + Slab) 🔄 | Up to 42% | 50+ years | - Highest energy efficiency<br>- Long-term cost savings | - Very high cost<br>- Longest payback period |
+
 
 ### Main Takeaway
 **GIS-based solar modeling combined with energy retrofitting provides a powerful framework for sustainable urban energy planning and decarbonization.**
