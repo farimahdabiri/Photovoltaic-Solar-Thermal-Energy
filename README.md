@@ -49,8 +49,9 @@ Both districts offer valuable insights into how urban form influences renewable 
 
 Solar radiation was simulated using **QGIS r.sun**, producing daily and monthly radiation maps, later validated with **PVGIS**.
 
-![Input Data](images/2.inputdata.png)
----
+<p align="center">
+  <img src="images/2.inputdata.png" width="150">
+</p>---
 
 ## 2.3 Solar Radiation Modeling
 
