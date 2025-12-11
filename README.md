@@ -11,19 +11,11 @@ The work includes:
 - Economic and Payback Analysis for Renewable Installations  
 
 ---
+# 1. Study Area
 
-## 1. Study Area
-
-Two districts were selected due to their contrasting morphological and rooftop characteristics:
-
-- **Cully Association** — larger industrial rooftops, high PV suitability  
-- **Cathedral Park** — compact residential forms, stable solar performance  
-
-Both districts offer valuable insights into how urban form influences renewable energy potential.
-
-<p align="center">
-  <img src="images/1.studyarea.png" width="250">
-</p>
+| **Study Area Description** | **Site Location** |
+|----------------------------|------------------|
+| Two districts were selected due to their contrasting morphological and rooftop characteristics:  <br><br> • **Cully Association** — larger industrial rooftops, high PV suitability  <br> • **Cathedral Park** — compact residential forms, stable solar performance  <br><br>Both districts provide valuable insights into how urban form influences renewable energy potential. | <img src="images/1.studyarea.png" width="300"> |
 
 ---
 
