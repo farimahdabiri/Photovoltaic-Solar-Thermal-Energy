@@ -192,7 +192,7 @@ Benefits:
 - Eliminates excess summer heat  
 - Reduces installation cost  
 - Improves annual energy balance  
-<p align="center">
+<p align="left">
   <img src="images/6.optimazation1.jpg" width="650">
 </p>
 
