@@ -45,7 +45,27 @@ The work includes:
 ---
 
 
-<img width="1258" height="498" alt="image" src="https://github.com/user-attachments/assets/a9684606-7b52-4e01-93b9-54f60fb8250f" />
+## 2.4 PV Energy Estimation
+
+**Energy per rooftop area:**  
+E1 = PR × Hs × S × η
+
+**Energy per kWp capacity:**  
+E3 = PR × Hs × Wp / Istc
+
+Where:
+
+- **PR** — Performance ratio  
+- **Hs** — Solar radiation (kWh/m²)  
+- **S** — Rooftop area  
+- **η** — Panel efficiency  
+- **Wp** — System peak power  
+- **Istc** — Standard irradiance  
+
+<p align="left">
+  <img src="images/4.result.png" width="430">
+  <img src="images/ENERGY.png" width="430">
+</p>
 
 
 ## 2.5 Key Findings
