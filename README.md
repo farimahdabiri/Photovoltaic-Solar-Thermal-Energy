@@ -38,15 +38,9 @@ The work includes:
 
 ## 2.3 Solar Radiation Modeling
 
-The radiation modeling process included:
-
-- Computation of direct, diffuse, and reflected radiation  
-- Conversion of daily → monthly outputs  
-- Extraction of radiation values per rooftop polygon  
-- Validation against PVGIS (strong correlation in summer periods, higher error in winter)
-<p align="center">
-  <img src="images/3.solar-radiation.png" width="350">
-</p>
+| **Solar Radiation Process** | **Radiation Maps** |
+|-----------------------------|---------------------|
+| The radiation modeling process included: <br><br> • Computation of direct, diffuse, and reflected radiation <br> • Conversion of daily → monthly outputs <br> • Extraction of radiation values per rooftop polygon <br> • Validation against **PVGIS** (strong correlation in summer periods, higher error in winter) | <img src="images/3.solar-radiation.png" width="450"> |
 
 ---
 
