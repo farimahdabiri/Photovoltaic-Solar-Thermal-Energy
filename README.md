@@ -205,7 +205,9 @@ This section analyzes heating energy demand based on:
 - Surface-to-volume ratio (S/V)  
 - Shared wall conditions  
 - Height differences  
-
+<p align="center">
+  <img src="images/typo" width="250">
+</p>
 ---
 
 ## 4.1 Envelope Heat Loss Calculation
