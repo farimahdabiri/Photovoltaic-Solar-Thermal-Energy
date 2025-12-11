@@ -206,8 +206,10 @@ This section analyzes heating energy demand based on:
 - Shared wall conditions  
 - Height differences  
 <p align="center">
-  <img src="images/typo" width="250">
+  <img src="images/typo.png" alt="Typology Map" width="450"><br>
+  <em>Figure: Building Typology Classification</em>
 </p>
+
 ---
 
 ## 4.1 Envelope Heat Loss Calculation
