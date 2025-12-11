@@ -69,8 +69,6 @@ Where:
 
 ## 2.5 Key Findings
 
-## 2.5 Key Findings
-
 <div style="display: flex; align-items: center; justify-content: space-between;">
 
 <div style="flex: 1;">
