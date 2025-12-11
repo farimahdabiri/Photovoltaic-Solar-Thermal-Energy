@@ -1,14 +1,25 @@
 # Python Scripts for Solar & Energy Analysis
 
-This folder contains processing scripts used in the project:
+This directory contains Python scripts used to automate solar radiation processing and photovoltaic energy estimation for the project.
 
-### 1. `radiation_processing.py`
-- Loads DSM-based solar radiation rasters
-- Computes monthly averages
-- Prepares data for PV estimation
+---
 
-### 2. `pv_calculation.py`
-- Applies PV performance equation
-- Computes energy output based on radiation and system parameters
+## 1. `radiation_processing.py`
+Processes DSM-based solar radiation data:
 
-These scripts demonstrate Python-based GIS processing for renewable energy modeling.
+- Loads daily/monthly solar radiation rasters using `rasterio`
+- Computes monthly or annual statistical summaries
+- Prepares radiation datasets for PV performance modeling
+
+---
+
+## 2. `pv_calculation.py`
+Computes photovoltaic energy output:
+
+- Applies PV performance equations
+- Uses radiation inputs and system parameters (PR, efficiency, area, Wp)
+- Generates energy output for each rooftop or cell
+
+---
+
+These scripts demonstrate **Python-based GIS automation** for renewable-energy modeling, integrating raster processing and PV system estimation.
