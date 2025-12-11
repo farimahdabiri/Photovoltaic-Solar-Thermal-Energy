@@ -63,7 +63,7 @@ Where:
 - **Istc** — Standard irradiance  
 
 <p align="left">
-  <img src="images/4.result.png" width="430">
+  <img src="images/4.result.png" width="830">
 </p>
 
 
