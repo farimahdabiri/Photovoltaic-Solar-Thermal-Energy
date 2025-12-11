@@ -95,60 +95,56 @@ Where:
 
 <div style="display: flex; gap: 20px; align-items: flex-start;">
 
-<!-- جدول ۱ -->
 <div style="flex: 1;">
   
-<table>
-  <tr>
-    <!-- جدول اول -->
-    <td style="vertical-align: top; padding-right: 20px;">
+<div style="display: flex; gap: 20px; align-items: flex-start;">
 
-      <h3>Monthly Electrical Consumption & Production — Cathedral Park</h3>
+<div style="flex: 1;">
+  
+### Monthly Electrical Consumption & Production — Cathedral Park
 
-      <table>
-        <tr><th>Month</th><th>Consumption (kWh/month)</th><th>Production (kWh/month)</th></tr>
-        <tr><td>Jan</td><td>290,494.63</td><td>384,775.30</td></tr>
-        <tr><td>Feb</td><td>262,382.25</td><td>615,248.79</td></tr>
-        <tr><td>Mar</td><td>290,494.63</td><td>1,043,947.15</td></tr>
-        <tr><td>Apr</td><td>281,123.84</td><td>1,397,416.26</td></tr>
-        <tr><td>May</td><td>290,494.63</td><td>1,686,085.02</td></tr>
-        <tr><td>Jun</td><td>281,123.84</td><td>1,866,675.18</td></tr>
-        <tr><td>Jul</td><td>290,494.63</td><td>1,796,074.76</td></tr>
-        <tr><td>Aug</td><td>290,494.63</td><td>1,528,423.08</td></tr>
-        <tr><td>Sep</td><td>281,123.84</td><td>1,128,523.20</td></tr>
-        <tr><td>Oct</td><td>290,494.63</td><td>756,773.56</td></tr>
-        <tr><td>Nov</td><td>281,123.84</td><td>441,500.63</td></tr>
-        <tr><td>Dec</td><td>290,494.63</td><td>328,451.53</td></tr>
-        <tr><th>Annual</th><th>3,420,340.00</th><th>12,973,894.47</th></tr>
-      </table>
+| Month | Consumption (kWh/month) | Production (kWh/month) |
+|-------|--------------------------|--------------------------|
+| Jan | 290,494.63 | 384,775.30 |
+| Feb | 262,382.25 | 615,248.79 |
+| Mar | 290,494.63 | 1,043,947.15 |
+| Apr | 281,123.84 | 1,397,416.26 |
+| May | 290,494.63 | 1,686,085.02 |
+| Jun | 281,123.84 | 1,866,675.18 |
+| Jul | 290,494.63 | 1,796,074.76 |
+| Aug | 290,494.63 | 1,528,423.08 |
+| Sep | 281,123.84 | 1,128,523.20 |
+| Oct | 290,494.63 | 756,773.56 |
+| Nov | 281,123.84 | 441,500.63 |
+| Dec | 290,494.63 | 328,451.53 |
+| Annual | 3,420,340.00 | 12,973,894.47 |
 
-    </td>
+</div>
 
-    <!-- جدول دوم -->
-    <td style="vertical-align: top;">
 
-      <h3>Cost Before and After Implementation — Cathedral Park</h3>
+<div style="flex: 1;">
 
-      <table>
-        <tr><th>Month</th><th>C_bi (€)</th><th>C_ai (€)</th></tr>
-        <tr><td>Jan</td><td>63,908.82</td><td>9,420.07</td></tr>
-        <tr><td>Feb</td><td>57,724.09</td><td>35,286.65</td></tr>
-        <tr><td>Mar</td><td>63,908.82</td><td>75,345.25</td></tr>
-        <tr><td>Apr</td><td>61,847.24</td><td>111,629.24</td></tr>
-        <tr><td>May</td><td>63,908.82</td><td>139,559.04</td></tr>
-        <tr><td>Jun</td><td>61,847.24</td><td>158,585.13</td></tr>
-        <tr><td>Jul</td><td>63,908.82</td><td>150,568.01</td></tr>
-        <tr><td>Aug</td><td>63,908.82</td><td>123,792.85</td></tr>
-        <tr><td>Sep</td><td>63,908.82</td><td>84,739.94</td></tr>
-        <tr><td>Oct</td><td>63,908.82</td><td>46,627.89</td></tr>
-        <tr><td>Nov</td><td>61,847.24</td><td>16,037.68</td></tr>
-        <tr><td>Dec</td><td>63,908.82</td><td>3,795.69</td></tr>
-        <tr><th>Annual</th><th>752,474.80</th><th>955,355.46</th></tr>
-      </table>
+### Cost Before and After Implementation — Cathedral Park
 
-    </td>
-  </tr>
-</table>
+| Month | C_bi (€) | C_ai (€) |
+|-------|-----------|-----------|
+| Jan | 63,908.82 | 9,420.07 |
+| Feb | 57,724.09 | 35,286.65 |
+| Mar | 63,908.82 | 75,345.25 |
+| Apr | 61,847.24 | 111,629.24 |
+| May | 63,908.82 | 139,559.04 |
+| Jun | 61,847.24 | 158,585.13 |
+| Jul | 63,908.82 | 150,568.01 |
+| Aug | 63,908.82 | 123,792.85 |
+| Sep | 63,908.82 | 84,739.94 |
+| Oct | 63,908.82 | 46,627.89 |
+| Nov | 61,847.24 | 16,037.68 |
+| Dec | 63,908.82 | 3,795.69 |
+| Annual | 752,474.80 | 955,355.46 |
+
+</div>
+
+</div>
 
 ---
 
