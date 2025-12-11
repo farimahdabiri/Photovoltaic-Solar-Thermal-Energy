@@ -196,7 +196,7 @@ Benefits:
   <img src="images/6.optimazation1.jpg" width="650">
 </p>
 
-<p align="center">
+<p align="left">
   <img src="images/7.optimazation2.jpg" width="650">
 </p>
 ---
@@ -218,8 +218,8 @@ This section analyzes heating energy demand based on:
 - Surface-to-volume ratio (S/V)  
 - Shared wall conditions  
 - Height differences  
-<p align="center">
-  <img src="images/typo.png" alt="Typology Map" width="450">
+<p align="left">
+  <img src="images/typo.png" alt="Typology Map" width="650">
 </p>
 
 
