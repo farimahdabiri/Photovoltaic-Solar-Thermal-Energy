@@ -309,7 +309,10 @@ Outputs classify buildings into efficiency classes and reveal how form and age i
 - Python scripts for solar radiation processing (rasterio, numpy)
 
 ## How to Run
+# Install dependencies
 pip install -r requirements.txt
+
+# Run PV energy calculation
 python scripts/pv_calculation.py --help
 
 ---
