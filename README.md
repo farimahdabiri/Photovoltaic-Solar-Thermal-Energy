@@ -308,6 +308,9 @@ Outputs classify buildings into efficiency classes and reveal how form and age i
 **GIS-based solar modeling combined with energy retrofitting provides a powerful framework for sustainable urban energy planning and decarbonization.**
 - Python scripts for solar radiation processing (rasterio, numpy)
 
+## How to Run
+pip install -r requirements.txt
+python scripts/pv_calculation.py --help
 
 ---
 
